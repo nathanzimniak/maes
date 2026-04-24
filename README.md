@@ -17,7 +17,7 @@
 <br>
 
 > [!IMPORTANT]
-> The code is not publicly available at this time. You can still explore the computed solutions here: [maes_website](https://nathanzimniak.github.io/maes_website/).
+> The code is not publicly available. You can still explore the computed solutions here: [maes_website](https://nathanzimniak.github.io/maes_website/).
 
 <br>
 
